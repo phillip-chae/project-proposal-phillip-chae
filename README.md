@@ -8,7 +8,7 @@ In an increasingly digitalized society where alternatives to regular social inte
 ### How?
 The app will ask for certain pre-defined hobbies and beliefs with the option to add additional topics
 
-###For whom?
+### For whom?
 This is targeted towards introverts and shy people that are more prevalent in today's society due to less social interactions, who do not want to have to go through painful, awkward conversations to get to the meat of the conversation. 
 
 ### Scope

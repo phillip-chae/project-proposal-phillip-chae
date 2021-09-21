@@ -1,5 +1,5 @@
 # Amiz
-
+## Author: Phillip Chae
 ### What and Why?
 The app will match you up with similar people to you to hopefully be friends with! 
 
@@ -12,4 +12,4 @@ The app will ask for certain pre-defined hobbies and beliefs with the option to 
 This is targeted towards introverts and shy people that are more prevalent in today's society due to less social interactions, who do not want to have to go through painful, awkward conversations to get to the meat of the conversation. 
 
 ### Scope
-In basics, the project seems fairly easy to implement: simply match users with similar values. However, it is easy to expand upon the complexity, by implementing predictive algorithms that could match hobbies that they do not personally hold by seeing what other hobbies other users with similar hobbies hold. Also, the app could ask for feedback on how the friendship turned out, from which more changes to the matching process could be made.
+In basics, the project seems fairly easy to implement: simply match users with similar values. However, it is easy to expand upon the complexity, by implementing predictive algorithms that could match hobbies that they did not indicate they hold by seeing what other hobbies other users with similar hobbies hold. Also, the app could ask for feedback on how the friendship turned out, from which more changes to the matching process could be made.
